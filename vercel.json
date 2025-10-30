@@ -1,8 +1,18 @@
 {
+  "version": 2,
+  "builds": [
+    {
+      "src": "package.json",
+      "use": "@vercel/static-build"
+    }
+  ],
   "routes": [
     {
       "src": "/privacy",
-      "dest": "/index.html"
+      "dest": "/index.html",
+      "headers": {
+        "Cache-Control": "s-maxage=0"
+      }
     },
     {
       "src": "/(.*)",
