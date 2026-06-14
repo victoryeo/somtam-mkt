@@ -19,7 +19,7 @@ export default function App() {
               className="h-8 w-8"
             />
             <span className="text-2xl sm:text-3xl font-semibold">
-              SomtamCoin AI
+              SomtamCoin - AI Enhanced
             </span>
           </div>
           <a
@@ -99,6 +99,16 @@ export default function App() {
                 financial future today.
               </p>
             </section>
+
+            <section className="mb-6">
+              <h2 className="text-3xl font-semibold mb-2">
+                Enhanced by Artificial Intelligence
+              </h2>
+              <p className="text-xl text-[#706f6c] dark:text-[#A1A09A]">
+                SomtamCoin integrates cutting-edge artificial intelligence to revolutionize asset stability and efficiency. Through advanced AI algorithmic issuance, the protocol continuously analyzes market demand and real-time liquidity pools to automatically adjust the token supply with absolute precision. This intelligent automation prevents sudden market manipulation, optimizes transaction routing across decentralized networks, and predicts gas spikes before they occur. By fusing reliable stablecoin reserves with proactive, machine-learning-driven governance, SomtamCoin ensures your capital works smarter, reacts faster to market conditions.
+              </p>
+            </section>
+
             <section>
               <h2 className="text-3xl font-semibold mb-2">
                 Frequently Asked Questions
