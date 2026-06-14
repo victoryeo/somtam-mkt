@@ -19,7 +19,7 @@ export default function App() {
               className="h-8 w-8"
             />
             <span className="text-2xl sm:text-3xl font-semibold">
-              SomtamCoin
+              SomtamCoin AI
             </span>
           </div>
           <a
