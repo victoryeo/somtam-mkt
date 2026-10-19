@@ -23,7 +23,7 @@ export default function App() {
             </span>
           </div>
           <a
-            href="https://app.somtam.xyz"
+            href="https://app.somtam.space"
             className="bg-[#1b1b18] text-white dark:bg-[#EDEDEC] dark:text-[#0a0a0a] px-3 sm:px-4 py-1.5 sm:py-2 rounded-lg font-medium text-sm sm:text-base hover:bg-opacity-90 transition duration-200 shadow-[0px_1px_2px_0px_rgba(0,0,0,0.06)]"
           >
             Launch dApp
