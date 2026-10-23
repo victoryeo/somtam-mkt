@@ -4,12 +4,12 @@ export default function Privacy() {
             <div className="max-w-4xl mx-auto">
                 <div className="bg-white dark:bg-[#161615] rounded-lg shadow-[0px_0px_1px_0px_rgba(0,0,0,0.03),0px_1px_2px_0px_rgba(0,0,0,0.06)] p-6 lg:p-12">
                     <h1 className="text-3xl font-bold text-[#1b1b18] dark:text-[#EDEDEC] mb-8">
-                        SomtamCoin Privacy Policy
+                        Somtam Privacy Policy
                     </h1>
                     
                     <div className="prose dark:prose-invert max-w-none">
                         <p className="text-lg text-[#1b1b18] dark:text-[#EDEDEC] mb-6">
-                            Welcome to the SomtamCoin app
+                            Welcome to the Somtam app
                         </p>
 
                         <p className="mb-6">
